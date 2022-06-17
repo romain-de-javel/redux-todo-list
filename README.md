@@ -31,13 +31,14 @@ npm start
 ```
 2. Now the servet is started, open [mainRoot](http://localhost:3000) to use the todoList
 3. Open [kanbanRoot](http://localhost:3000/tasks) to use the kanban
+
 #### TodoList usage
-<img style="align: center" src="Capture2.JPG" alt="List" >
+<img style="align:center" src="Capture2.JPG" alt="List" width="250" height="220" ></img><br/>
 You can create a new task by filling the `Title` fileld with a non-empty title. The description is optional and must not exceed 200 characters. Then click on `ADD ITEM` button and the task apear. <br/><br/>
 You can now remove the task by clicking on the delete button or mark this task complete by clicking on the checkbox.<br/>
 
 #### Kanban usage
-<img style="align: center" src="Capture1.JPG" alt="Kanban" >
+<img style="align: center" src="Capture1.JPG" alt="Kanban" width="550" height="250"></img><br/>
 You can create a task following the **TodoList usage** tutorial.<br/>
 You can also **delete** a task by clicking on the delete button associated to this task.<br/><br/>
 You can modify a task by clicking on the edit button associated to the task. A modal apear and you must modify all informations on the task before clicking on `Modify`.<br/>
