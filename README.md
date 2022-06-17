@@ -8,7 +8,7 @@ This projet is a persistent Redux TodoList and a kanban with DnD tasks
 This is the way you can get the project
 1. Clone the project
 ```
-git clone .....
+git clone git@github.com:romain-de-javel/redux-todo-list.git
 ```
 2. Go into the folder
 ```
