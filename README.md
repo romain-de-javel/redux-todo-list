@@ -24,7 +24,7 @@ npm install --legacy-peer-deps
 ```
 
 ### Usage
-This is the way you can get the project
+This is the way you can use the project
 1. Run the server
 ```
 npm start
@@ -47,7 +47,7 @@ You can finally drag and drop each task to the column you want and to the positi
 
 
 # Technologies
-this project has been realised in:<br/>
+this project has been realised with:<br/>
 * react
 * typescript
 * redux
