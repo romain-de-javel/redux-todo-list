@@ -31,10 +31,10 @@ function Kanban(){
     const [colIdx, setColIdx] = useState(0);
     // check the lenght of the input description
     const checkLength = (todoDescription : string, e : any) => {
-      if (todoDescription.length >= 10)
+      if (todoDescription.length >= 200)
       {
         alert("Too many cgaratcters in your description")
-        setTodoDescription(todoDescription.substring(0, 9));
+        setTodoDescription(todoDescription.substring(0, 199));
       }
       else
         setTodoDescription(e.target.value);
