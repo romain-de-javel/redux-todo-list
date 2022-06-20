@@ -20,7 +20,7 @@ import { addTodo, removeTodo, setTodoStatus } from "../redux/todoSlice";
 
 function TodoList() {
   // DONE
-  var maxLength = 10;
+  var maxLength = 200;
   
   //React Hooks
   const [todoTitle, setTodoTitle] = useState("");
